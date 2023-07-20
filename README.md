@@ -13,3 +13,8 @@
 
 ### Spring and Keycloak
 * [Baeldung tutorial](https://www.baeldung.com/spring-boot-keycloak).
+
+### Running app
+* http://localhost:8084 -> Welcome world!
+* http://localhost:8084/secure -> Logging needed
+* http://localhost:8084/logout -> default Spring logout
